@@ -1,11 +1,13 @@
+body{
+  background:#b3e7f7;
 .top{
   text-align:left;
 }
 .middle{
-  color:#ff0f0f;
+  color:#08ace2;
 }
 .bottom{
-  color:#fff009;
+  color:#00b0ea;
 }
 .gamebutton {
 	box-shadow: 0px 0px 0px 2px #9fb4f2;
@@ -29,5 +31,5 @@
 }
 .gamebutton:active {
 	position:relative;
-  top:1px;
+  	top:1px;
 }
